@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CqrsWithEntityFramework.props" />
+</Project>
